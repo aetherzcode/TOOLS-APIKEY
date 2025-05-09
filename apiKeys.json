@@ -4,11 +4,5 @@
     "limit": 100000000,
     "usage": 0,
     "expiry": "2028-12-31T23:59:59Z"
-  },
-  {
-    "apikey": "AETHERzMD",
-    "limit": 1000000,
-    "usage": 0,
-    "expiry": "2025-07-09T19:25:10.885Z"
   }
 ]
