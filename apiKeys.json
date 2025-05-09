@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "apikey": "AetherzCode",
+    "limit": 100000000,
+    "usage": 0,
+    "expiry": "2028-12-31T23:59:59Z"
+  },
+  {
+    "apikey": "AETHERzMD",
+    "limit": 100000,
+    "usage": 0,
+    "expiry": "2025-07-09T19:10:19.195Z"
+  }
+]
