@@ -7,8 +7,8 @@
   },
   {
     "apikey": "AETHERzMD",
-    "limit": 20000,
-    "usage": 5,
+    "limit": 19999,
+    "usage": 6,
     "expiry": "2025-08-09T19:25:10.885Z"
   }
 ]
