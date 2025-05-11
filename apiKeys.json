@@ -1,8 +1,8 @@
 [
   {
     "apikey": "AetherzCode",
-    "limit": 100001,
-    "usage": 1,
+    "limit": 2,
+    "usage": 2,
     "expiry": "2056-10-31T23:59:59.000Z"
   },
   {
